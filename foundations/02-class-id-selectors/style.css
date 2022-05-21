@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: #ff8b8b;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#number2 {
+    color: #5ea1ff;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: #bdf7ac;
+    font-size: 24px;
+    font-weight: bold;
+}
